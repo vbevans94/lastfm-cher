@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LastFM</string>
+
+    <string name="description_image_artwork">Image artwork</string>
+    <string name="message_error">Some error happened. Touch to update.</string>
+    <string name="title_listened">Listened: %s times</string>
+
+    <string name="title_artist">LastFM - %s</string>
+    <string name="title_album">%1$s - %2$s</string>
+</resources>
